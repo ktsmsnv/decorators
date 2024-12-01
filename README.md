@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Лабораторная работа №3. Реализация шаблона Decorator.
 
 ## Цели и задачи
@@ -60,3 +61,6 @@ msgWithHeaderFooterDateInBase64.Print();            // на экран буде�
 
 ### UML-диаграмма предлагаемого решения
 ![decorator_uml](https://github.com/user-attachments/assets/6658c03a-7b0b-4a56-b3bb-10ed2ce2e305)
+=======
+# decorators
+>>>>>>> 3c7f14934d99f2f30d353bed3340632daf9d547e
